@@ -15,7 +15,7 @@ Get all listed folders within a directory
 {
 "selected_extensions" : [".php",".js", ".html", ".css", ".sql"],
 "source_directory" : "images/",
-"target_directory" : "ng"/["ng/", "css/", "application"],
+"target_directory" : ["ng/", "css/", "application/"],
 "include_files" : true,
 "include_database" : true
 }
