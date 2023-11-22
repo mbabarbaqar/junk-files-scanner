@@ -1,0 +1,21 @@
+{
+    "name": "root/junk-files-scanner",
+    "description": "Scan file within a project or application to identify as junk and delete from application.",
+    "type": "php",
+    "require": {
+        "php": ">=8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Root\\JunkFilesScanner\\": "src/"
+        }
+    },
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Muhammad Babar",
+            "email": "mbabarbaqar@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
