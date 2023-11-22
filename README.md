@@ -25,5 +25,5 @@ Content-Type : application/json
 ```
 
 ```bash
-composer.phar require google/auth
+composer require babardev/junk-files-scanner
 ```
